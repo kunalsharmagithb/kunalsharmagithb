@@ -1,77 +1,86 @@
-<!--
-  GitHub profile README for kunalsharmagithb.
-  Header art: assets/header-light.svg and assets/header-dark.svg.
-  Email, LinkedIn, and site links are commented under Connect. Add the real URLs before publishing.
--->
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Kunal Sharma, full-stack developer. Stack map: Interface, Services, Data, and Platform." src="./assets/header-light.svg" width="100%">
-</picture>
+# KUNAL SHARMA
+### FULL STACK DEVELOPER
 
-I build full-stack products from the interface to the database. Types carry the contract the whole way. Traces show whether the design holds once real traffic arrives.
+`WEB DEVELOPMENT` • `SYSTEMS` • `OPEN SOURCE`
 
-## Stack
+---
 
-**TypeScript**
-One language from the UI to the query layer, so the contract cannot drift in silence.
+</div>
 
-**React · Next.js · Tailwind CSS**
-Server-rendered product UI, a small styling system, and interaction states that include loading, empty, and error.
+### 01 / BIOGRAPHY
 
-**Node.js · tRPC · Zod**
-Inputs and outputs checked at the boundary and shared with the client. OpenAPI when a contract has to leave the repo.
+> Full stack developer focused on building scalable, performant, and modern web applications. Driven by minimal design, robust code, and continuous learning.
 
-**PostgreSQL · Drizzle · Redis**
-Relational data as the source of truth, a typed query layer, and cache only where latency earns it.
+- **Role** &nbsp;&mdash;&nbsp; Full Stack Web Developer
+- **Stack** &nbsp;&mdash;&nbsp; TypeScript • Next.js • React • Node.js • PostgreSQL
+- **Interests** &nbsp;&mdash;&nbsp; Web Architecture, Developer Tools, Open Source
+- **Status** &nbsp;&mdash;&nbsp; Building in public
 
-**Vercel AI SDK · pgvector**
-Streaming AI features grounded in product data, with retrieval stored beside the records it cites.
+---
 
-**Vercel · Docker · GitHub Actions · AWS**
-The product surface on Vercel, workers in containers, reviewable builds in Actions, and durable storage and queues on AWS.
+### 02 / TECH STACK & TOOLING
 
-**Vitest · Playwright · OpenTelemetry**
-Unit tests for logic, browser tests for flows, and traces for behavior that only appears in production.
+#### CORE LANGUAGES & FRAMEWORKS
+![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![tRPC](https://img.shields.io/badge/tRPC-121212?style=flat-square&logo=trpc&logoColor=398CCB)
 
-## How I work
+#### FRONTEND & STYLING
+![HTML5](https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-121212?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-- **Domain model first.** Screens follow the data and the states that data can be in.
-- **Failure ships with the feature.** Loading, empty, and error are specified with the happy path.
-- **Narrow contracts.** A small API stays reviewable and difficult to misuse.
-- **Evidence before tuning.** Timings and traces decide what is worth making faster.
+#### DATA & SERVICES
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-121212?style=flat-square&logo=redis&logoColor=FF4438)
+![Docker](https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=2496ED)
+![Zod](https://img.shields.io/badge/Zod-121212?style=flat-square&logo=zod&logoColor=3E67B1)
 
-## Now
+#### WORKFLOW & INFRASTRUCTURE
+![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-121212?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-121212?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-121212?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-121212?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![VS Code](https://img.shields.io/badge/VS_Code-121212?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-- Publishing selected builds in public repositories
-- Designing AI features that stay inside real product flows
-- Keeping the interface and the service layer on one type system
+---
 
-## Connect
+### 03 / METRICS & ACTIVITY
 
-- [GitHub](https://github.com/kunalsharmagithb)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kunalsharmagithb&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kunalsharmagithb&theme=transparent&hide_border=true&stroke=ffffff&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kunalsharmagithb&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" height="150" alt="Top Languages"/>
+</div>
 
-<!--
-- [Email](mailto:hello@yourdomain.com)
-- [LinkedIn](https://www.linkedin.com/in/your-handle)
-- [Web](https://yourdomain.com)
--->
+<br />
 
-<details>
-<summary>Full toolchain</summary>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalsharmagithb/kunalsharmagithb/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalsharmagithb/kunalsharmagithb/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/kunalsharmagithb/kunalsharmagithb/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-| Concern | Tools |
-| --- | --- |
-| Language | TypeScript |
-| Interface | React, Next.js, Tailwind CSS, Motion, Radix UI |
-| API | Node.js, tRPC, Zod, OpenAPI |
-| Data | PostgreSQL, Drizzle, Redis, pgvector |
-| Intelligence | Vercel AI SDK, streaming UI, retrieval, evals |
-| Auth | Better Auth |
-| Platform | Docker, GitHub Actions, Vercel, AWS |
-| Quality | Vitest, Playwright, OpenTelemetry |
-| Repo | pnpm, Turborepo |
+---
 
-</details>
+### 04 / CONTACT & SOCIAL
 
-<sub>Kunal Sharma · Full-stack developer</sub>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-kunalsharmagithb-121212?style=flat-square&logo=github&logoColor=white)](https://github.com/kunalsharmagithb)
+
+</div>
+
+<br />
+
+<blockquote align="center">
+  <i>"Interfaces, services, and the systems between them."</i>
+</blockquote>
